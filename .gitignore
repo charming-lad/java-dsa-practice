@@ -1,0 +1,26 @@
+
+# Compiled Java files
+*.class
+
+# Build output
+out/
+target/
+build/
+
+# IDE files
+.idea/
+.project
+.classpath
+.settings/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
