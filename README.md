@@ -5,7 +5,9 @@ My journey of learning Data Structures and Algorithms using Java.
 My Java solutions to DSA problems are organized by topic, with explanations and time and space complexity analysis as I progress.
 
 ## Topics
-
+- Numbers
+    - print1toN
+    - reverseNto1
 - Arrays
 - Strings
 - Searching and Sorting
