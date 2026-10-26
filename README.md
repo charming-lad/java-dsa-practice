@@ -8,6 +8,9 @@ My Java solutions to DSA problems are organized by topic, with explanations and 
 - Numbers
     - print1toN
     - reverseNto1
+    - EvenOdd
+    - sum1toN
+    - PrimeNo1toN
 - Arrays
 - Strings
 - Searching and Sorting
