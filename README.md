@@ -11,6 +11,11 @@ My Java solutions to DSA problems are organized by topic, with explanations and 
     - EvenOdd
     - sum1toN
     - PrimeNo1toN
+    - Table
+    - MultipleTable
+    - PerfectNumber
+    - PrimeNo
+    - SumOfPrime
 - Arrays
 - Strings
 - Searching and Sorting
