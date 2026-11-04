@@ -1,15 +1,9 @@
-/**
- * print1toN
- */
-public class print1toN {
-
+public class reverseNto1_2 {
     public static void main(String[] args) {
         java.util.Scanner sc = new java.util.Scanner(System.in);
-        System.out.println("Enter number");
+        System.out.println("Enter n");
         int n = sc.nextInt();
-        System.out.println("Printed numbers are");
-
-        for (int i = 1; i <= n; i++) {
+        for (int i = n; i > 0; i--) {
             System.out.println(i);
         }
         sc.close();

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MultipleTables {
+public class MultipleTables_7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter value of n");

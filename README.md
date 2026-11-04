@@ -6,16 +6,20 @@ My Java solutions to DSA problems are organized by topic, with explanations and 
 
 ## Topics
 - Numbers
-    - print1toN
-    - reverseNto1
-    - EvenOdd
-    - sum1toN
-    - PrimeNo1toN
-    - Table
-    - MultipleTable
-    - PerfectNumber
-    - PrimeNo
-    - SumOfPrime
+    - print1toN_1
+    - reverseNto1_2
+    - EvenOdd_3
+    - sum1toN_4
+    - PrimeNo1toN_5
+    - Table_6
+    - MultipleTable_7
+    - PerfectNumber_8
+    - PrimeNo_9
+    - SumOfPrime_10
+    - Factorial_11
+    - RangeOfPerfect_12
+    - Palindrome_13
+    - RangeOfFactorial_14
 - Arrays
 - Strings
 - Searching and Sorting

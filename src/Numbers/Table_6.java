@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Table {
+public class Table_6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter number for table presentation");

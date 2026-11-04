@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SumOfPrime {
+public class SumOfPrime_10 {
     public static boolean isPrime(int num) {
         if (num == 1)
             return false;
