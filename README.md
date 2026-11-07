@@ -20,6 +20,7 @@ My Java solutions to DSA problems are organized by topic, with explanations and 
     - RangeOfPerfect_12
     - Palindrome_13
     - RangeOfFactorial_14
+    - PerfectNo_15
 - Arrays
 - Strings
 - Searching and Sorting
