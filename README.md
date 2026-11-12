@@ -25,6 +25,8 @@ My Java solutions to DSA problems are organized by topic, with explanations and 
     - Fibonacci_17
     - RangeOfFibonacci_18
     - Reverse_19
+    - GCD_20
+    
 
 - Arrays
 - Strings
