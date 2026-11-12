@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RangeOfStrong {
+public class RangeOfStrong_16{
     static int fact(int n) {
         int fact = 1;
         while (n > 0) {
@@ -12,9 +12,11 @@ public class RangeOfStrong {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter a Number");
-        int n = sc.nextInt();
-        for (int i = 1; i <= n; i++) {
+        System.out.println("Enter starting Number");
+        int start = sc.nextInt();
+        System.out.println("Enter end Number");
+        int end = sc.nextInt();
+        for (int i = start; i <= end; i++) {
             int num = i;
             int t = num;
             int sum = 0;

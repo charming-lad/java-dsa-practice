@@ -20,8 +20,12 @@ My Java solutions to DSA problems are organized by topic, with explanations and 
     - RangeOfPerfect_12
     - Palindrome_13
     - RangeOfFactorial_14
-    - PerfectNo_15
-    - Fibonacci_16
+    - StrongNo_15
+    - RangeOfStrong_16
+    - Fibonacci_17
+    - RangeOfFibonacci_18
+    - Reverse_19
+
 - Arrays
 - Strings
 - Searching and Sorting
