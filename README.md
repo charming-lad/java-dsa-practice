@@ -26,7 +26,11 @@ My Java solutions to DSA problems are organized by topic, with explanations and 
     - RangeOfFibonacci_18
     - Reverse_19
     - GCD_20
-    
+    - PrimePalindrome_21
+    - Armstrong_22
+    - RangeOfArmstrong_23
+    - SwapWith3rdVariable_24
+    - SwapW/o3rdVariable_25
 
 - Arrays
 - Strings
