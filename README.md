@@ -31,7 +31,11 @@ My Java solutions to DSA problems are organized by topic, with explanations and 
     - RangeOfArmstrong_23
     - SwapWith3rdVariable_24
     - SwapW/o3rdVariable_25
-
+- Conversions
+    - BinToDec_26
+    - DecToBin_27
+    - OctToDec_28
+    - DecToOct_29
 - Arrays
 - Strings
 - Searching and Sorting

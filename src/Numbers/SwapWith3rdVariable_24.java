@@ -13,5 +13,6 @@ public class SwapWith3rdVariable_24 {
         j = k;
         System.out.println("i = " + i);
         System.out.println("j = " + j);
+        sc.close();
     }
 }

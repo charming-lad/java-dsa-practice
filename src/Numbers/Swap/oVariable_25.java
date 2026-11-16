@@ -14,5 +14,6 @@ public class oVariable_25 {
         i = i - j;
         System.out.println("i = " + i);
         System.out.println("j = " + j);
+        sc.close();
     }
 }
